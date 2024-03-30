@@ -1,2 +1,2 @@
 # Data-Science
-Extract Transform Load &amp; Exploratory Data Analysis
+Extract Transform Load and Exploratory Data Analysis
